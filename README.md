@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Beatriz, estudadente de Ciência da Computação e de Frnt-end
+### Olá! Eu sou a Ana Beatriz, estudadente de Ciência da Computação e de Front-end
 
 - 🔭 Curso faculdade de Ciência da Computação 
 - 🌱 Estudando HTML, CSS e Java-Script
