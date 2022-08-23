@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Ana Beatriz, estudante de Ciência da Computação e de Front-end
 
-- 🔭 Curso faculdade de Ciência da Computação 
+- 🔭 Curso Analise e Desenvolvimento de Sistemas, no Instituto Federal de Rondônia 
 - 🌱 Estudando HTML, CSS e Java-Script
 - 📫 Email: anabeatrizts.12@gmail.com
 - 😄 Pronouns: ela/dela (she/her)
