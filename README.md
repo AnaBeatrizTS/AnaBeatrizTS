@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Beatriz, estudante de Análise e Desenvolvimento de SIstemas e de Front-end
+### Olá! Eu sou a Ana Beatriz, estudante de Análise e Desenvolvimento de Sistemas e de Front-end
 
 - 🔭 Curso Analise e Desenvolvimento de Sistemas, no Instituto Federal de Rondônia 
 - 🌱 Estudando HTML, CSS e Java-Script
